@@ -1,3 +1,5 @@
+> Žákovský projekt 4.EP (IoT), školní rok 2025/26, SPŠ Trutnov. Projekt se už neudržuje.
+
 # Server Deck: Physical Interface for Server Management
 
 A web application and physical control panel for managing and monitoring a server's state.
